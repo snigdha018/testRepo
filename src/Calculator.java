@@ -1,6 +1,9 @@
 
 public class Calculator {
 
+	/*
+	 * This method is used for adding two numbers
+	 */
 	public static int sum(int a, int b) {
 		return a + b;
 	}
